@@ -1,0 +1,16 @@
+body{
+	padding-top:50px;
+}
+
+.jumu{
+	text-align:center;
+	background: url('../img/timg.jpg') no-repeat;
+	background-size:cover;
+	color:red;
+	padding:150px 0;
+}
+
+.yetou{
+	padding: 120px 0;
+}
+
